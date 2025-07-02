@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @bsdtamires
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning tests automation, API tests and JavaScript
-- 🌱 I’m also learning more of SQL to manipulate data automation.
-- 💞️ I’m looking to collaborate on UI tests
-- 📫 How to reach me www.linkedin.com/in/barbosatamires
+- 👀 I’m interested in AI, Data automation 
+- 🌱 I’m currently specializing in Agile Testing at Cesar School
+- 🌱 I’m also learning Python, Selenium to improve knowledge on test automation
+- 🤖 Professionally working on ETL and BI testing (Data Validation)
+- 📫 How to reach me: www.linkedin.com/in/barbosatamires
 
 <!---
 bsdtamires/bsdtamires is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
