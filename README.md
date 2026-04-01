@@ -1,6 +1,7 @@
 - 👋🏽 Hi, I’m Tamires Barbosa
 - 👀  I’m interested in Data Quality Testing and related data engineering testing automation.
-- 👩🏽‍🎓 I’m specialized in Agile Testing at Cesar School.
+- 👩🏽‍🎓 I’m Agile Testing aspecialized, Graphic Design specialized and IT management technology graduated.
+- 👩🏽‍🎓 I'm ISTQB - CTFL 4.0 certified
 - 🤖 Professionally working with ETL and BI data validation (SSMS, SQL, Data Automation via Query Surge, data quality validation for MicroStrategy reports and dashboards)
 - 🤖 Professionally working with Snowflake medallion and UDTFs and Kurtosys.
 - 🌱 Academic and self-teaching to keep improving knowledge of Python (Python/Pytest), SQL for data analysis and test automation.
